@@ -1,0 +1,25 @@
+<html>
+    <head>
+         <title>
+            Article One | Roshni Oommen
+    </title>
+</head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr/>
+        <h3>
+            Articleb Two
+        </h3>
+        <div>
+            Sept 27, 2016
+        </div>
+        <div>
+            <p>
+                This is the content for my second artcile.
+            </p>
+         </div>
+    </body>
+    
+</html>
